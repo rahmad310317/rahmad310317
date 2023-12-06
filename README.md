@@ -1,7 +1,5 @@
-### Hi there, I'm [Rahmadee](https://rahmadwindisimanullang.com)! 👋
-
-- 🌱 I’m currently learning Github Actions.
-- 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (Laravel, VueJS & NuxtJS preferrable).
+### Hi there, I'm [Rahmadee](https://rahmadwindisimanullang.com)! 
+- 🏃‍♂️ I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (Laravel, VueJS & NuxtJS preferrable).
 - 💬 Ask me about anything related to PHP, Laravel and JavaScript.
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/rahmadee12)
 - 😄 Pronouns: he/him.
